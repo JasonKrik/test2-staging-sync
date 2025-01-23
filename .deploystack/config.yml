@@ -5,5 +5,7 @@ application:
   logo: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/552500/ss_70bcfe361ea570b0617f0bf0d2604124f9a263e5.1920x1080.jpg"
 deployment:
   branches:
-    another2:
-      label: "Another2"
+    another:
+      label: "Another"
+    main:
+      label: "Main"
