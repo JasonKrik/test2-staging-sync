@@ -7,3 +7,5 @@ deployment:
   branches:
     another:
       label: "Another"
+    main:
+      label: "superMain
