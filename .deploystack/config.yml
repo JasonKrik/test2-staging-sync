@@ -6,4 +6,4 @@ application:
 deployment:
   branches:
     another:
-      label: "Another2"
+      label: "Another"
