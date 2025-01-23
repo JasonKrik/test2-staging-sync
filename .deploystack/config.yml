@@ -6,4 +6,4 @@ application:
 deployment:
   branches:
     another:
-      label: "This is another branch"
+      label: "Another"
