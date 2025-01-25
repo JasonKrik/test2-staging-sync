@@ -9,5 +9,3 @@ deployment:
       label: "Another4"
     main:
       label: "mainB"
-    asd:
-      label: "Asd"
