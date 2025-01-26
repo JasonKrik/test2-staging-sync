@@ -1,2 +1,2 @@
 thisenv=another
-SOME_OTHER=oni3
+SOME_OTHER="some-nice-value"
