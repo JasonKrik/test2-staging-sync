@@ -7,3 +7,5 @@ deployment:
   branches:
     main99:
       label: "thisismine"
+    another:
+      label: "label123"
