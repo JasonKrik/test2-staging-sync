@@ -3,3 +3,9 @@ application:
   description: lorem ipsum kaczory on-main 1
   aleJaJA: 123
   logo: "https://cdn-dkepej.nitrocdn.com/xHPizjaXJNONuYnLnfsGSUCsMnIlzOEq/assets/images/optimized/rev-ef469ea/blog.frame.io/wp-content/uploads/2021/12/lotr-forced-perspective-cart-bilbo-gandalf.jpg"
+deployment:
+  branches:
+    main:
+      label: "thisismine"
+    another:
+      label: "Another4"
