@@ -5,5 +5,7 @@ application:
   logo: "https://cdn-dkepej.nitrocdn.com/xHPizjaXJNONuYnLnfsGSUCsMnIlzOEq/assets/images/optimized/rev-ef469ea/blog.frame.io/wp-content/uploads/2021/12/lotr-forced-perspective-cart-bilbo-gandalf.jpg"
 deployment:
   branches:
-    main99:
+    main44:
       label: "thisismine"
+    another:
+      label: "anoth22"
